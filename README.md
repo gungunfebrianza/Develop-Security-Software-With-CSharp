@@ -126,6 +126,7 @@ BAB 17
 <li>17.3 Cara Menggunakan Software Startup Monitor</li>
 </ul>
 
+<ul>
 BAB 18 
 <li>18.1 Software Steganography – Hide Text In Image</li>
 <li>18.2 Membuat Software Steganography – Hide Text In Image</li>
