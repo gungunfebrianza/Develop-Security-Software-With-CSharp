@@ -1,0 +1,94 @@
+<XCoolForm>
+   <XCoolFormElements>
+      <TitleBar>
+	      <InnerBorderColor r="204" g="204" b="204"></InnerBorderColor>
+	      <OuterBorderColor r="255" g="255" b="255"></OuterBorderColor>
+        <TitleBarCaptionColor r="4" g="4" b="4"> </TitleBarCaptionColor>
+	      <ButtonBox>
+            <MixColor1 r="245" g="245" b="245"> </MixColor1>
+            <MixColor2 r="243" g="243" b="243"> </MixColor2>
+            <MixColor3 r="254" g="254" b="254"> </MixColor3>
+            <MixColor4 r="253" g="253" b="253"> </MixColor4>
+            <MixColor5 r="243" g="243" b="243"> </MixColor5>
+            <ButtonBoxInnerColor r="204" g="204" b="204"> </ButtonBoxInnerColor>
+            <ButtonBoxOuterColor r="255" g="255" b="255"> </ButtonBoxOuterColor>
+        </ButtonBox>
+	<TitleBarMixColors>
+            <MixColor1 r="243" g="243" b="243"> </MixColor1>
+	    <MixColor2 r="240" g="240" b="240"> </MixColor2>
+	    <MixColor3 r="254" g="254" b="254"> </MixColor3>
+	    <MixColor4 r="253" g="253" b="253"> </MixColor4>
+	    <MixColor5 r="243" g="243" b="243"> </MixColor5>
+        </TitleBarMixColors>
+	<GradientStartColor r="245" g="245" b="246"></GradientStartColor>
+        <GradientEndColor r="220" g="220" b="220"></GradientEndColor>
+        <GlowFillStart r="222" g="222" b="222"></GlowFillStart>
+        <GlowFillEnd r="200" g="200" b="200"></GlowFillEnd>
+      </TitleBar>
+
+      <TitleBarButton>
+         <CloseButton>
+            <SymbolColor r="200" g="200" b="200"> </SymbolColor>
+            <FillColorOne r="222" g="222" b="222"> </FillColorOne>
+            <FillColorTwo r="200" g="200" b="200"> </FillColorTwo>
+         </CloseButton>
+         <MinButton>
+            <SymbolColor r="200" g="200" b="200"> </SymbolColor>
+           <FillColorOne r="222" g="222" b="222"> </FillColorOne>
+           <FillColorTwo r="200" g="200" b="200"> </FillColorTwo>
+         </MinButton>
+         <MaxButton>
+            <SymbolColor r="200" g="200" b="200"> </SymbolColor>
+           <FillColorOne r="222" g="222" b="222"> </FillColorOne>
+           <FillColorTwo r="200" g="200" b="200"> </FillColorTwo>
+         </MaxButton>
+      </TitleBarButton>
+      
+      <Border>
+         <BorderOuterColors>
+            <Color1 r="220" g="220" b="220"> </Color1>
+	    <Color2 r="250" g="250" b="250"> </Color2>
+	 </BorderOuterColors>
+	 <BorderInnerColors>
+            <Color1 r="255" g="255" b="255"> </Color1>
+	    <Color2 r="255" g="255" b="255"> </Color2>
+	    <Color3 r="255" g="255" b="255"> </Color3>
+	    <Color4 r="204" g="204" b="204"> </Color4>
+	 </BorderInnerColors>
+      </Border>
+
+      <MenuIcon>
+        <MixColor1 r="245" g="245" b="245"> </MixColor1>
+        <MixColor2 r="240" g="240" b="240"> </MixColor2>
+        <MixColor3 r="254" g="254" b="254"> </MixColor3>
+        <MixColor4 r="253" g="253" b="253"> </MixColor4>
+        <MixColor5 r="243" g="243" b="243"> </MixColor5>
+	      <MenuIconOuterBorder r="255" g="255" b="255"></MenuIconOuterBorder>
+        <MenuIconInnerBorder r="204" g="204" b="204"></MenuIconInnerBorder>
+      </MenuIcon>
+
+      <IconHolder>
+	<FrameStartColor r="245" g="245" b="245"> </FrameStartColor>
+	<FrameEndColor r="222" g="222" b="222"> </FrameEndColor>
+	<CaptionColor r="5" g="5" b="5"> </CaptionColor>
+      </IconHolder>
+
+      <StatusBar>
+	<StatusBarItems>
+          <SeparatorInnerColor r="255" g="255" b="255"> </SeparatorInnerColor>
+	  <SeparatorOuterColor r="222" g="222" b="222"> </SeparatorOuterColor>
+	  <FontColor r="0" g="0" b="0"> </FontColor>
+	</StatusBarItems>
+	<StatusStartColor r="243" g="243" b="243"> </StatusStartColor>
+	<StatusEndColor r="254" g="254" b="254"> </StatusEndColor>
+	<BorderColor r="204" g="204" b="204"> </BorderColor>
+	<SizeGrip>
+	  <ForeRectStart r="243" g="243" b="243"> </ForeRectStart>
+	  <ForeRectEnd r="204" g="204" b="204"> </ForeRectEnd>
+	  <BackRect r="255" g="255" b="255"> </BackRect>
+	</SizeGrip>
+      </StatusBar>
+     
+      <FormBackColor r="255" g="255" b="255"></FormBackColor>
+   </XCoolFormElements>
+</XCoolForm>

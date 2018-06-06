@@ -1,0 +1,39 @@
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\bin\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\bin\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\Anti_Executable.Form1.resources
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\Anti_Executable.Properties.Resources.resources
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\AppData\Local\Temporary Projects\Anti Executable\obj\x86\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\bin\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\bin\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\Anti_Executable.Form1.resources
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\Anti_Executable.Properties.Resources.resources
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kaizer Family\Desktop\Anti Executable\Anti Executable\obj\x86\Debug\Anti_Executable.Form2.resources
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\bin\Debug\Anti Executable.exe
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\bin\Debug\Anti Executable.pdb
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\Anti_Executable.Form1.resources
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\Anti_Executable.Form2.resources
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\Anti_Executable.Properties.Resources.resources
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kaizer Family\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Anti Executable C#\Anti Executable\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\Anti Executable.exe
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\Anti Executable.pdb
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\bin\Debug\Anti Executable.exe
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\bin\Debug\Anti Executable.pdb
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\Anti_Executable.Form1.resources
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\Anti_Executable.Form2.resources
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\Anti_Executable.Properties.Resources.resources
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KAIZERFAMILY\Desktop\Membuat Software Software Kemanan Dengan C#\9. Software Anti Executable\Source Code\Anti Executable\obj\x86\Debug\GenerateResource.write.1.tlog

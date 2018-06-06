@@ -1,0 +1,94 @@
+<XCoolForm>
+   <XCoolFormElements>
+      <TitleBar>
+	<InnerBorderColor r="143" g="217" b="69"></InnerBorderColor>
+	<OuterBorderColor r="103" g="166" b="51"></OuterBorderColor>
+        <TitleBarCaptionColor r="4" g="4" b="4"> </TitleBarCaptionColor>
+	<ButtonBox>    
+            <MixColor1 r="218" g="242" b="22"> </MixColor1>
+	    <MixColor2 r="135" g="197" b="26"> </MixColor2>
+	    <MixColor3 r="104" g="171" b="29"> </MixColor3>
+	    <MixColor4 r="65" g="138" b="20"> </MixColor4>
+	    <MixColor5 r="25" g="83" b="7"> </MixColor5>
+            <ButtonBoxInnerColor r="52" g="62" b="60"></ButtonBoxInnerColor>
+            <ButtonBoxOuterColor r="103" g="166" b="51"></ButtonBoxOuterColor>
+        </ButtonBox>
+	<TitleBarMixColors>
+    <MixColor1 r="221" g="254" b="113"> </MixColor1>
+    <MixColor2 r="168" g="229" b="77"> </MixColor2>
+    <MixColor3 r="118" g="192" b="44"> </MixColor3>
+    <MixColor4 r="71" g="139" b="15"> </MixColor4>
+    <MixColor5 r="52" g="112" b="1"> </MixColor5>
+        </TitleBarMixColors>
+	<GradientStartColor r="71" g="139" b="15"></GradientStartColor>
+        <GradientEndColor r="118" g="192" b="44"></GradientEndColor>
+        <GlowFillStart r="221" g="254" b="113"></GlowFillStart>
+        <GlowFillEnd r="168" g="229" b="77"></GlowFillEnd>
+      </TitleBar>
+
+      <TitleBarButton>
+         <CloseButton>
+            <SymbolColor r="250" g="250" b="250"> </SymbolColor>
+            <FillColorOne r="71" g="139" b="15"> </FillColorOne>
+            <FillColorTwo r="118" g="192" b="44"> </FillColorTwo>
+         </CloseButton>
+         <MinButton>
+            <SymbolColor r="250" g="250" b="250"> </SymbolColor>
+           <FillColorOne r="71" g="139" b="15"> </FillColorOne>
+           <FillColorTwo r="118" g="192" b="44"> </FillColorTwo>
+         </MinButton>
+         <MaxButton>
+            <SymbolColor r="250" g="250" b="250"> </SymbolColor>
+           <FillColorOne r="71" g="139" b="15"> </FillColorOne>
+           <FillColorTwo r="118" g="192" b="44"> </FillColorTwo>
+         </MaxButton>
+      </TitleBarButton>
+      
+      <Border>
+         <BorderOuterColors>
+            <Color1 r="143" g="217" b="69"> </Color1>
+	    <Color2 r="103" g="166" b="51"> </Color2>
+	 </BorderOuterColors>
+	 <BorderInnerColors>
+     <Color1 r="118" g="192" b="44"> </Color1>
+	    <Color2 r="118" g="192" b="44"> </Color2>
+	    <Color3 r="143" g="217" b="69"> </Color3>
+	    <Color4 r="103" g="166" b="51"> </Color4>
+	 </BorderInnerColors>
+      </Border>
+
+      <MenuIcon>
+	<MixColor1 r="80" g="162" b="54"> </MixColor1>
+	<MixColor2 r="70" g="142" b="42"> </MixColor2>
+	<MixColor3 r="67" g="128" b="26"> </MixColor3>
+	<MixColor4 r="108" g="174" b="24"> </MixColor4>
+	<MixColor5 r="80" g="162" b="55"> </MixColor5>
+	<MenuIconOuterBorder r="103" g="166" b="51"></MenuIconOuterBorder>
+        <MenuIconInnerBorder r="143" g="217" b="69"></MenuIconInnerBorder>
+      </MenuIcon>
+
+      <IconHolder>
+	<FrameStartColor r="221" g="254" b="113"> </FrameStartColor>
+	<FrameEndColor r="168" g="229" b="77"> </FrameEndColor>
+	<CaptionColor r="55" g="55" b="55"> </CaptionColor>
+      </IconHolder>
+
+      <StatusBar>
+	<StatusBarItems>
+          <SeparatorInnerColor r="143" g="217" b="69"> </SeparatorInnerColor>
+	  <SeparatorOuterColor r="103" g="166" b="51"> </SeparatorOuterColor>
+	  <FontColor r="5" g="5" b="5"> </FontColor>
+	</StatusBarItems>
+	<StatusStartColor r="170" g="219" b="16"> </StatusStartColor>
+	<StatusEndColor r="100" g="167" b="28"> </StatusEndColor>
+	<BorderColor r="154" g="211" b="8"> </BorderColor>
+	<SizeGrip>
+	  <ForeRectStart r="143" g="217" b="69"> </ForeRectStart>
+	  <ForeRectEnd r="153" g="227" b="79"> </ForeRectEnd>
+	  <BackRect r="103" g="166" b="51"> </BackRect>
+	</SizeGrip>
+      </StatusBar>
+     
+      <FormBackColor r="118" g="192" b="44"></FormBackColor>
+   </XCoolFormElements>
+</XCoolForm>
