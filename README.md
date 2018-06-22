@@ -1,5 +1,5 @@
 # Develop Security Software With C#
-:books: Author : Gun Gun Febrianza @daddybitcoin
+:books: Author : Gun Gun Febrianza @daddybitcoinofficial / @daddybitcoin
 
 <img src="Buku Membuat Software Keamanan By Gun Gun Febrianza (2018).png">
 
